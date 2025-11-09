@@ -1,0 +1,101 @@
+name,category_id,description,price,is_new,is_rentable
+'The Matrix',1,'Sci-fi action movie from 1999',19.99,0,1
+'Inception',1,'Sci-fi action thriller from 2010',24.99,0,1
+'The Shawshank Redemption',1,'Drama about prison life from 1994',14.99,0,1
+'Superbad',1,'Teen comedy from 2007',12.99,0,1
+'Interstellar',1,'Sci-fi adventure from 2014',22.99,0,1
+'The Godfather',1,'Crime drama from 1972',15.99,0,1
+'Anchorman',1,'Comedy about news anchors from 2004',11.99,0,1
+'Die Hard',1,'Action thriller from 1988',13.99,0,1
+'Titanic',1,'Romantic drama from 1997',17.99,0,1
+'Dumb and Dumber',1,'Slapstick comedy from 1994',10.99,0,1
+'Blade Runner 2049',1,'Sci-fi sequel from 2017',21.99,0,1
+'Good Will Hunting',1,'Drama about a genius janitor from 1997',14.99,0,1
+'The Hangover',1,'Comedy about a wild bachelor party from 2009',12.99,0,1
+'Mad Max: Fury Road',1,'Post-apocalyptic action from 2015',20.99,0,1
+'Forrest Gump',1,'Heartwarming drama from 1994',16.99,0,1
+'Pineapple Express',1,'Stoner comedy from 2008',11.99,0,1
+'Terminator 2',1,'Sci-fi action from 1991',18.99,0,1
+'Schindler''s List',1,'Historical drama from 1993',15.99,0,1
+'Step Brothers',1,'Comedy about adult stepbrothers from 2008',12.99,0,1
+'The Dark Knight',1,'Superhero action from 2008',19.99,0,1
+'The Green Mile',1,'Drama with magical realism from 1999',14.99,0,1
+'21 Jump Street',1,'Action comedy from 2012',13.99,0,1
+'John Wick',1,'Action thriller from 2014',20.99,0,1
+'The Departed',1,'Crime drama from 2006',16.99,0,1
+'Zoolander',1,'Fashion comedy from 2001',11.99,0,1
+'Gladiator',1,'Historical action from 2000',17.99,0,1
+'A Beautiful Mind',1,'Biographical drama from 2001',15.99,0,1
+'The Big Lebowski',1,'Cult comedy from 1998',12.99,0,1
+'Jurassic Park',1,'Sci-fi adventure from 1993',18.99,0,1
+'Amélie',1,'Romantic drama from 2001',14.99,0,1
+'Knocked Up',1,'Romantic comedy from 2007',11.99,0,1
+'Avengers: Endgame',1,'Superhero epic from 2019',24.99,0,1
+'The Wolf of Wall Street',1,'Biographical drama from 2013',19.99,0,1
+'Bridesmaids',1,'Wedding comedy from 2011',12.99,0,1
+'Star Wars: A New Hope',1,'Sci-fi adventure from 1977',17.99,0,1
+'La La Land',1,'Musical drama from 2016',16.99,0,1
+'Mean Girls',1,'Teen comedy from 2004',11.99,0,1
+'The Avengers',1,'Superhero action from 2012',20.99,0,1
+'12 Years a Slave',1,'Historical drama from 2013',15.99,0,1
+'The 40-Year-Old Virgin',1,'Comedy about late bloomers from 2005',12.99,0,1
+'Indiana Jones: Raiders of the Lost Ark',1,'Adventure action from 1981',16.99,0,1
+'The Grand Budapest Hotel',1,'Quirky drama from 2014',14.99,0,1
+'Pitch Perfect',1,'Musical comedy from 2012',12.99,0,1
+'Rogue One: A Star Wars Story',1,'Sci-fi action from 2016',19.99,0,1
+'The Social Network',1,'Biographical drama from 2010',15.99,0,1
+'Tropic Thunder',1,'Satirical comedy from 2008',11.99,0,1
+'Mission: Impossible - Fallout',1,'Action thriller from 2018',21.99,0,1
+'Moonlight',1,'Coming-of-age drama from 2016',14.99,0,1
+'Clueless',1,'Teen comedy from 1995',10.99,0,1
+'Spider-Man: Into the Spider-Verse',1,'Animated action from 2018',20.99,0,1
+'Parasite',1,'Thriller drama from 2019',18.99,0,1
+'Deadpool',1,'Action comedy from 2016',19.99,0,1
+'Guardians of the Galaxy',1,'Sci-fi comedy from 2014',20.99,0,1
+'Whiplash',1,'Music drama from 2014',15.99,0,1
+'The Nice Guys',1,'Action comedy from 2016',13.99,0,1
+'Black Panther',1,'Superhero action from 2018',21.99,0,1
+'The King''s Speech',1,'Historical drama from 2010',14.99,0,1
+'Crazy Rich Asians',1,'Romantic comedy from 2018',12.99,0,1
+'Captain America: Civil War',1,'Superhero action from 2016',20.99,0,1
+'Argo',1,'Historical thriller from 2012',15.99,0,1
+'This Is the End',1,'Apocalyptic comedy from 2013',12.99,0,1
+'Skyfall',1,'Action thriller from 2012',19.99,0,1
+'Spotlight',1,'Investigative drama from 2015',14.99,0,1
+'Game Night',1,'Mystery comedy from 2018',12.99,0,1
+'The Bourne Identity',1,'Action thriller from 2002',16.99,0,1
+'No Country for Old Men',1,'Crime drama from 2007',15.99,0,1
+'The Wedding Crashers',1,'Romantic comedy from 2005',11.99,0,1
+'Jaws',1,'Thriller adventure from 1975',14.99,0,1
+'The Pianist',1,'War drama from 2002',15.99,0,1
+'Office Space',1,'Workplace comedy from 1999',10.99,0,1
+'Iron Man',1,'Superhero action from 2008',18.99,0,1
+'Slumdog Millionaire',1,'Drama from 2008',14.99,0,1
+'Hot Fuzz',1,'Action comedy from 2007',12.99,0,1
+'Star Wars: The Force Awakens',1,'Sci-fi adventure from 2015',21.99,0,1
+'Her',1,'Sci-fi drama from 2013',14.99,0,1
+'The Lego Movie',1,'Animated comedy from 2014',12.99,0,1
+'Fury',1,'War action from 2014',18.99,0,1
+'Room',1,'Drama from 2015',14.99,0,1
+'Shaun of the Dead',1,'Zombie comedy from 2004',11.99,0,1
+'Edge of Tomorrow',1,'Sci-fi action from 2014',19.99,0,1
+'The Fighter',1,'Sports drama from 2010',14.99,0,1
+'In Bruges',1,'Dark comedy from 2008',12.99,0,1
+'Thor: Ragnarok',1,'Superhero comedy from 2017',20.99,0,1
+'Manchester by the Sea',1,'Drama from 2016',14.99,0,1
+'The Hangover Part II',1,'Comedy sequel from 2011',12.99,0,1
+'Casino Royale',1,'Action thriller from 2006',18.99,0,1
+'Life of Pi',1,'Adventure drama from 2012',15.99,0,1
+'Zombieland',1,'Zombie comedy from 2009',12.99,0,1
+'The Matrix Reloaded',1,'Sci-fi action from 2003',17.99,0,1
+'Django Unchained',1,'Western drama from 2012',16.99,0,1
+'Superbad 2',1,'Fictional comedy sequel',13.99,0,0
+'Barbie',1,'Fantasy adventure from 2023',24.99,1,1
+'Oppenheimer',1,'Historical drama from 2023',25.99,1,1
+'Dune: Part Two',1,'Sci-fi epic from 2024',26.99,1,1
+'Poor Things',1,'Sci-fi drama from 2023',23.99,1,1
+'Wonka',1,'Family comedy from 2023',22.99,1,1
+'Mission: Impossible – Dead Reckoning',1,'Action thriller from 2023',25.99,1,1
+'The Holdovers',1,'Comedy-drama from 2023',22.99,1,1
+'Spider-Man: Across the Spider-Verse',1,'Animated action from 2023',24.99,1,1
+'The Zone of Interest',1,'Historical drama from 2023',23.99,1,0
