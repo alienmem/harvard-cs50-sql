@@ -3,17 +3,26 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Harvard University's comprehensive introduction to databases using SQL. Complete solutions and final project from CS50's database course.
+Harvard University's comprehensive introduction to databases using SQL. Complete solutions and final project from CS50’s Introduction to Databases with SQL (2025).
 
-**Course:** [CS50-SQL Official Site](https://cs50.harvard.edu/sql/)  
-**Instructor:** Carter Zenke  
-**Status:** ✓ Completed (2025)
+**Course:** [CS50-SQL Official Site](https://cs50.harvard.edu/sql/) 
+**Instructor:** Carter Zenke • **Status:** Completed (2025)
 
 ---
 
+### Important Note about .db files
+All generated SQLite database files (e.g., `normals.db`, `bnb.db`, `fiftyville.db`, `movies.db`, etc.) have been intentionally removed.
+
+They can be regenerated instantly with:
+```bash
+sqlite3 database_name.db < script_name.sql
+```
+
+This keeps the repository < 2 MB (instead of 150+ MB) and makes cloning lightning-fast while preserving 100 % of the solutions.
+
 ## 🎯 Overview
 
-This repository contains my complete coursework from Harvard's CS50 Introduction to Databases with SQL. The course covers database fundamentals through hands-on problem sets based on real-world datasets, progressing from SQLite basics to enterprise-level database systems.
+Complete coursework from Harvard's CS50 Introduction to Databases with SQL. The course covers database fundamentals through hands-on problem sets based on real-world datasets, progressing from SQLite basics to enterprise-level database systems.
 
 **What I Built:**
 - Database schemas for complex real-world scenarios
@@ -48,8 +57,6 @@ harvard-cs50-sql/
 ├── week4-viewing/           # Views, CTEs, query abstraction
 ├── week5-optimizing/        # Indexes, transactions, concurrency
 ├── week6-scaling/           # MySQL, PostgreSQL, scaling strategies
-├── sample-project/          # Practice implementation
-├── mock-project/            # Tony's Titanic Titles
 └── final-project/           # Course capstone
 ```
 
@@ -105,26 +112,6 @@ harvard-cs50-sql/
 
 ---
 
-## 🛠️ Tech Stack
-
-**Databases:**
-- SQLite (embedded, course foundation)
-- MySQL (enterprise-level RDBMS)
-- PostgreSQL (advanced open-source RDBMS)
-
-**Languages:**
-- SQL (primary)
-- Python (database connectivity)
-- Java (application integration)
-
-**Tools:**
-- DB Browser for SQLite
-- MySQL Workbench
-- pgAdmin
-- Command-line interfaces
-
----
-
 ## 📊 Skills Demonstrated
 
 - Relational database design from requirements to implementation
@@ -162,5 +149,5 @@ MIT License - Educational purposes
 
 Built by **Antonio Cardoso**  
 📧 tony101123cardoso@icloud.com  
-💼 [LinkedIn](#) (Coming soon)  
+💼 [LinkedIn](https://www.linkedin.com/in/a-cardoso-pro/) 
 🔗 [More Projects](https://github.com/alienmem)
